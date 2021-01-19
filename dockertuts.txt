@@ -1,0 +1,4 @@
+1)docker is a containeralization tool
+2)docker separates web services in a container(including dependencies)
+3)docker is lightweight, parallel containers that barely take system resources
+4)Compose is a tool for defining and running multi-container Docker applications. 

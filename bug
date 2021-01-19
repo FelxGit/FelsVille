@@ -1,0 +1,4 @@
+1) npm run watch-poll, somehow fixed component not updating
+2) setted axios.interceptors has no effect when using axios; fixed with Vue.prototype from exported changes
+3) new error https://github.com/laravel/passport/issues/1381
+4) sass-loader compatibility issue fixed- now in sass-loader@7.1.0

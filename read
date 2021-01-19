@@ -1,0 +1,7 @@
+1) composer install
+2) npm install
+3) artisan migrate && db:seed
+
+/*every after fresh migrate*/
+4) php artisan passport:install(to be able to generate access token)
+5) artisan voyager:install(migrate and seeds to voyager generated/or to existing appended schema ex. user)
